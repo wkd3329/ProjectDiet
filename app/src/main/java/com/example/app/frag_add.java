@@ -28,6 +28,7 @@ public class frag_add extends Fragment {
     Button btn_addalbum;
 
 
+
     private View view;
 
     @Nullable
