@@ -23,7 +23,6 @@ public class meal {
         foodList.remove(k);
     }
 
-
     void setTime(int t)
     {
         this.time=t;

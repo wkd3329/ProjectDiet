@@ -8,7 +8,4 @@ public class user {
     float weight;
 
     Vector<day> dayList;
-
-
-
 }
