@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/action_add"
+        android:enabled="true"
+        android:icon="@drawable/bt_add"
+        android:title="Add"
+    />
+
+    <item
+        android:id="@+id/action_day"
+        android:enabled="true"
+        android:icon="@drawable/bt_day"
+        android:title="Day"
+    />
+
+    <item
+        android:id="@+id/action_week"
+        android:enabled="true"
+        android:icon="@drawable/bt_week"
+        android:title="Week"
+    />
+
+    <item
+        android:id="@+id/action_month"
+        android:enabled="true"
+        android:icon="@drawable/bt_month"
+        android:title="Month"
+    />
+
+    <item
+        android:id="@+id/action_setting"
+        android:enabled="true"
+        android:icon="@drawable/bt_setting"
+        android:title="Setting"
+    />
+
+
+</menu>
